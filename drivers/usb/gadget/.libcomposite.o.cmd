@@ -1,0 +1,1 @@
+savedcmd_drivers/usb/gadget/libcomposite.o := riscv64-unknown-linux-gnu-ld -melf64lriscv -z noexecstack --no-warn-rwx-segments   -r -o drivers/usb/gadget/libcomposite.o @drivers/usb/gadget/libcomposite.mod 

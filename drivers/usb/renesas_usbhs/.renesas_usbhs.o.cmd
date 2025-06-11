@@ -1,0 +1,1 @@
+savedcmd_drivers/usb/renesas_usbhs/renesas_usbhs.o := riscv64-unknown-linux-gnu-ld -melf64lriscv -z noexecstack --no-warn-rwx-segments   -r -o drivers/usb/renesas_usbhs/renesas_usbhs.o @drivers/usb/renesas_usbhs/renesas_usbhs.mod 

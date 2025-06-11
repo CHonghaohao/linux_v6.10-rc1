@@ -1,0 +1,15 @@
+!<thin>
+//                                              124       `
+pci-host-common.o/
+pci-host-generic.o/
+pcie-xilinx.o/
+dwc/pcie-designware.o/
+dwc/pcie-designware-host.o/
+dwc/pcie-fu740.o/
+
+/0              0           0     0     644     5600      `
+/19             0           0     0     644     5904      `
+/39             0           0     0     644     28152     `
+/54             0           0     0     644     39880     `
+/77             0           0     0     644     36176     `
+/105            0           0     0     644     13920     `

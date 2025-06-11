@@ -1,0 +1,1 @@
+savedcmd_drivers/mailbox/built-in.a := rm -f drivers/mailbox/built-in.a;  printf "drivers/mailbox/%s " mailbox.o pcc.o sun6i-msgbox.o | xargs riscv64-unknown-linux-gnu-ar cDPrST drivers/mailbox/built-in.a

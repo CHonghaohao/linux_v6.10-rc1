@@ -1,0 +1,1 @@
+savedcmd_drivers/usb/gadget/function/usb_f_eem.ko := riscv64-unknown-linux-gnu-ld -r -melf64lriscv -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/usb/gadget/function/usb_f_eem.ko drivers/usb/gadget/function/usb_f_eem.o drivers/usb/gadget/function/usb_f_eem.mod.o

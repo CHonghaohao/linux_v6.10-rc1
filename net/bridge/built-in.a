@@ -1,0 +1,55 @@
+!<thin>
+//                                              376       `
+br.o/
+br_device.o/
+br_fdb.o/
+br_forward.o/
+br_if.o/
+br_input.o/
+br_ioctl.o/
+br_stp.o/
+br_stp_bpdu.o/
+br_stp_if.o/
+br_stp_timer.o/
+br_netlink.o/
+br_netlink_tunnel.o/
+br_arp_nd_proxy.o/
+br_sysfs_if.o/
+br_sysfs_br.o/
+br_nf_core.o/
+br_multicast.o/
+br_mdb.o/
+br_multicast_eht.o/
+br_vlan.o/
+br_vlan_tunnel.o/
+br_vlan_options.o/
+br_mst.o/
+br_netfilter_hooks.o/
+br_netfilter_ipv6.o/
+
+/0             /0           0     0     644     18832     `
+/6              0           0     0     644     21136     `
+/19             0           0     0     644     64184     `
+/29             0           0     0     644     15880     `
+/43             0           0     0     644     31112     `
+/52             0           0     0     644     17896     `
+/64             0           0     0     644     14600     `
+/76             0           0     0     644     24904     `
+/86             0           0     0     644     8528      `
+/101            0           0     0     644     16632     `
+/114            0           0     0     644     8064      `
+/130            0           0     0     644     60280     `
+/144            0           0     0     644     9920      `
+/165            0           0     0     644     14696     `
+/184            0           0     0     644     25432     `
+/199            0           0     0     644     45560     `
+/214            0           0     0     644     3416      `
+/228            0           0     0     644     177856    `
+/244            0           0     0     644     60720     `
+/254            0           0     0     644     23672     `
+/274            0           0     0     644     92024     `
+/285            0           0     0     644     15864     `
+/303            0           0     0     644     30776     `
+/322            0           0     0     644     14320     `
+/332            0           0     0     644     55088     `
+/354            0           0     0     644     8696      `

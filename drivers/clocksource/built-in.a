@@ -1,0 +1,16 @@
+!<thin>
+//                                              96        `
+timer-of.o/
+timer-probe.o/
+renesas-ostm.o/
+mmio.o/
+timer-sun4i.o/
+dummy_timer.o/
+timer-riscv.o/
+/0              0           0     0     644     7648      `
+/12             0           0     0     644     4152      `
+/27             0           0     0     644     9984      `
+/43             0           0     0     644     2208      `
+/51             0           0     0     644     10328     `
+/66             0           0     0     644     3520      `
+/81             0           0     0     644     15432     `

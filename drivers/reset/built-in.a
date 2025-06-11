@@ -1,0 +1,17 @@
+!<thin>
+//                                              156       `
+core.o/
+starfive/reset-starfive-jh71x0.o/
+starfive/reset-starfive-jh7100.o/
+starfive/reset-starfive-jh7110.o/
+reset-mpfs.o/
+reset-simple.o/
+reset-sunxi.o/
+
+/0              0           0     0     644     49104     `
+/8              0           0     0     644     5176      `
+/42             0           0     0     644     3664      `
+/76             0           0     0     644     4968      `
+/110            0           0     0     644     10840     `
+/124            0           0     0     644     9720      `
+/140            0           0     0     644     6152      `

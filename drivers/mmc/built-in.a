@@ -1,0 +1,72 @@
+!<thin>
+//                                              622       `
+core/core.o/
+core/bus.o/
+core/host.o/
+core/mmc.o/
+core/mmc_ops.o/
+core/sd.o/
+core/sd_ops.o/
+core/sdio.o/
+core/sdio_ops.o/
+core/sdio_bus.o/
+core/sdio_cis.o/
+core/sdio_io.o/
+core/sdio_irq.o/
+core/slot-gpio.o/
+core/regulator.o/
+core/pwrseq.o/
+core/debugfs.o/
+core/pwrseq_simple.o/
+core/pwrseq_emmc.o/
+core/block.o/
+core/queue.o/
+host/sdhci.o/
+host/mmc_spi.o/
+host/of_mmc_spi.o/
+host/tmio_mmc_core.o/
+host/renesas_sdhi_core.o/
+host/renesas_sdhi_internal_dmac.o/
+host/dw_mmc.o/
+host/dw_mmc-pltfm.o/
+host/dw_mmc-starfive.o/
+host/sunxi-mmc.o/
+host/sdhci-pltfm.o/
+host/sdhci-cadence.o/
+host/sdhci-of-dwcmshc.o/
+host/cqhci-core.o/
+/0              0           0     0     644     65688     `
+/13             0           0     0     644     21000     `
+/25             0           0     0     644     38416     `
+/38             0           0     0     644     72888     `
+/50             0           0     0     644     33464     `
+/66             0           0     0     644     62200     `
+/77             0           0     0     644     10200     `
+/92             0           0     0     644     43104     `
+/105            0           0     0     644     10520     `
+/122            0           0     0     644     17984     `
+/139            0           0     0     644     11096     `
+/156            0           0     0     644     17616     `
+/172            0           0     0     644     11928     `
+/189            0           0     0     644     10424     `
+/207            0           0     0     644     8664      `
+/225            0           0     0     644     7304      `
+/240            0           0     0     644     26176     `
+/256            0           0     0     644     9448      `
+/278            0           0     0     644     6936      `
+/298            0           0     0     644     108192    `
+/312            0           0     0     644     15872     `
+/326            0           0     0     644     199136    `
+/340            0           0     0     644     37480     `
+/356            0           0     0     644     4936      `
+/375            0           0     0     644     50240     `
+/397            0           0     0     644     42288     `
+/423            0           0     0     644     22464     `
+/458            0           0     0     644     94912     `
+/473            0           0     0     644     9064      `
+/494            0           0     0     644     6560      `
+/518            0           0     0     644     48192     `
+/536            0           0     0     644     16648     `
+/556            0           0     0     644     22872     `
+/578            0           0     0     644     71760     `
+/603            0           0     0     644     50560     `

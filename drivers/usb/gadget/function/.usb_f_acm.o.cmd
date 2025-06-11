@@ -1,0 +1,1 @@
+savedcmd_drivers/usb/gadget/function/usb_f_acm.o := riscv64-unknown-linux-gnu-ld -melf64lriscv -z noexecstack --no-warn-rwx-segments   -r -o drivers/usb/gadget/function/usb_f_acm.o @drivers/usb/gadget/function/usb_f_acm.mod 

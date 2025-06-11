@@ -1,0 +1,1 @@
+savedcmd_sound/soc/generic/snd-soc-simple-card.o := riscv64-unknown-linux-gnu-ld -melf64lriscv -z noexecstack --no-warn-rwx-segments   -r -o sound/soc/generic/snd-soc-simple-card.o @sound/soc/generic/snd-soc-simple-card.mod 

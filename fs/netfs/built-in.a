@@ -1,0 +1,26 @@
+!<thin>
+//                                              154       `
+buffered_read.o/
+buffered_write.o/
+direct_read.o/
+direct_write.o/
+io.o/
+iterator.o/
+locking.o/
+main.o/
+misc.o/
+objects.o/
+write_collect.o/
+write_issue.o/
+/0              0           0     0     644     28840     `
+/17             0           0     0     644     27592     `
+/35             0           0     0     644     4552      `
+/50             0           0     0     644     6200      `
+/66             0           0     0     644     18096     `
+/72             0           0     0     644     11824     `
+/84             0           0     0     644     6672      `
+/95            /0           0     0     644     11304     `
+/103           /0           0     0     644     15104     `
+/111            0           0     0     644     11592     `
+/122            0           0     0     644     25792     `
+/139            0           0     0     644     25680     `

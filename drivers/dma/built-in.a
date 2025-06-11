@@ -1,0 +1,13 @@
+!<thin>
+//                                              84        `
+dmaengine.o/
+virt-dma.o/
+acpi-dma.o/
+of-dma.o/
+dw-axi-dmac/dw-axi-dmac-platform.o/
+
+/0              0           0     0     644     74152     `
+/13             0           0     0     644     8088      `
+/25             0           0     0     644     15000     `
+/37             0           0     0     644     14344     `
+/47             0           0     0     644     66120     `

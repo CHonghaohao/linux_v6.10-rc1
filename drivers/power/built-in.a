@@ -1,0 +1,12 @@
+!<thin>
+//                                              134       `
+reset/syscon-reboot.o/
+reset/syscon-poweroff.o/
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_hwmon.o/
+/0              0           0     0     644     6968      `
+/23             0           0     0     644     6672      `
+/48             0           0     0     644     68000     `
+/76             0           0     0     644     33616     `
+/105            0           0     0     644     11976     `

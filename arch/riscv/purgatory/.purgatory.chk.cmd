@@ -1,0 +1,1 @@
+savedcmd_arch/riscv/purgatory/purgatory.chk := riscv64-unknown-linux-gnu-ld -melf64lriscv -z noexecstack --no-warn-rwx-segments  -e purgatory_start -z nodefaultlib arch/riscv/purgatory/purgatory.ro -o arch/riscv/purgatory/purgatory.chk

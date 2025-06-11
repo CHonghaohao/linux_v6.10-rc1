@@ -1,0 +1,23 @@
+!<thin>
+//                                              228       `
+irqchip.o/
+irq-riscv-intc.o/
+irq-riscv-aplic-main.o/
+irq-riscv-aplic-direct.o/
+irq-riscv-aplic-msi.o/
+irq-riscv-imsic-state.o/
+irq-riscv-imsic-early.o/
+irq-riscv-imsic-platform.o/
+irq-sifive-plic.o/
+irq-starfive-jh8100-intc.o/
+
+/0              0           0     0     644     3936      `
+/11             0           0     0     644     14536     `
+/29             0           0     0     644     12544     `
+/53             0           0     0     644     16528     `
+/79             0           0     0     644     10536     `
+/102            0           0     0     644     36280     `
+/127            0           0     0     644     10616     `
+/152            0           0     0     644     16920     `
+/180            0           0     0     644     41912     `
+/199            0           0     0     644     14432     `

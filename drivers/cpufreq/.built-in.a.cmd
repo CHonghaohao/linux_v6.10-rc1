@@ -1,0 +1,1 @@
+savedcmd_drivers/cpufreq/built-in.a := rm -f drivers/cpufreq/built-in.a;  printf "drivers/cpufreq/%s " cpufreq.o freq_table.o cpufreq_stats.o cpufreq_performance.o cpufreq_userspace.o cpufreq_ondemand.o cpufreq_governor.o cpufreq_governor_attr_set.o cpufreq-dt.o cpufreq-dt-platdev.o | xargs riscv64-unknown-linux-gnu-ar cDPrST drivers/cpufreq/built-in.a

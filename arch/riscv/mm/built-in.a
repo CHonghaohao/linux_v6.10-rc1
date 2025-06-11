@@ -1,0 +1,27 @@
+!<thin>
+//                                              144       `
+init.o/
+extable.o/
+fault.o/
+pageattr.o/
+pgtable.o/
+tlbflush.o/
+cacheflush.o/
+context.o/
+pmem.o/
+hugetlbpage.o/
+dma-noncoherent.o/
+cache-ops.o/
+
+/0              0           0     0     644     99464     `
+/8              0           0     0     644     2528      `
+/19             0           0     0     644     11008     `
+/28             0           0     0     644     22776     `
+/40             0           0     0     644     10704     `
+/51             0           0     0     644     15608     `
+/63             0           0     0     644     13536     `
+/77             0           0     0     644     17856     `
+/88             0           0     0     644     4328      `
+/96             0           0     0     644     16392     `
+/111            0           0     0     644     8576      `
+/130            0           0     0     644     2136      `

@@ -1,0 +1,19 @@
+!<thin>
+//                                              124       `
+regmap.o/
+regcache.o/
+regcache-rbtree.o/
+regcache-flat.o/
+regcache-maple.o/
+regmap-debugfs.o/
+regmap-spi.o/
+regmap-mmio.o/
+
+/0              0           0     0     644     105400    `
+/10             0           0     0     644     23432     `
+/22             0           0     0     644     12984     `
+/41             0           0     0     644     2504      `
+/58             0           0     0     644     12464     `
+/76             0           0     0     644     32264     `
+/94             0           0     0     644     7584      `
+/108            0           0     0     644     22488     `

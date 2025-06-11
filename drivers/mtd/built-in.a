@@ -1,0 +1,66 @@
+!<thin>
+//                                              530       `
+mtdcore.o/
+mtdsuper.o/
+mtdconcat.o/
+mtdpart.o/
+mtdchar.o/
+parsers/ofpart_core.o/
+mtd_blkdevs.o/
+mtdblock.o/
+chips/chipreg.o/
+chips/cfi_probe.o/
+chips/cfi_util.o/
+chips/gen_probe.o/
+spi-nor/core.o/
+spi-nor/sfdp.o/
+spi-nor/swp.o/
+spi-nor/otp.o/
+spi-nor/sysfs.o/
+spi-nor/atmel.o/
+spi-nor/eon.o/
+spi-nor/esmt.o/
+spi-nor/everspin.o/
+spi-nor/gigadevice.o/
+spi-nor/intel.o/
+spi-nor/issi.o/
+spi-nor/macronix.o/
+spi-nor/micron-st.o/
+spi-nor/spansion.o/
+spi-nor/sst.o/
+spi-nor/winbond.o/
+spi-nor/xilinx.o/
+spi-nor/xmc.o/
+spi-nor/debugfs.o/
+/0              0           0     0     644     97680     `
+/11             0           0     0     644     7264      `
+/23             0           0     0     644     25448     `
+/36             0           0     0     644     30040     `
+/47             0           0     0     644     41008     `
+/58             0           0     0     644     15528     `
+/81             0           0     0     644     31472     `
+/96             0           0     0     644     12496     `
+/108            0           0     0     644     6680      `
+/125            0           0     0     644     11920     `
+/144            0           0     0     644     16096     `
+/162            0           0     0     644     10352     `
+/181            0           0     0     644     93304     `
+/197            0           0     0     644     22616     `
+/213            0           0     0     644     14520     `
+/228            0           0     0     644     10152     `
+/243            0           0     0     644     5232      `
+/260            0           0     0     644     8368      `
+/277            0           0     0     644     4896      `
+/292            0           0     0     644     2336      `
+/308            0           0     0     644     1896      `
+/328            0           0     0     644     4440      `
+/350            0           0     0     644     2320      `
+/367            0           0     0     644     6640      `
+/383            0           0     0     644     11040     `
+/403            0           0     0     644     21984     `
+/424            0           0     0     644     31872     `
+/444            0           0     0     644     11744     `
+/459            0           0     0     644     14696     `
+/478            0           0     0     644     5056      `
+/496            0           0     0     644     2048      `
+/511            0           0     0     644     23416     `

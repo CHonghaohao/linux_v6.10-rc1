@@ -1,0 +1,1 @@
+savedcmd_arch/riscv/purgatory/built-in.a := rm -f arch/riscv/purgatory/built-in.a;  printf "arch/riscv/purgatory/%s " kexec-purgatory.o | xargs riscv64-unknown-linux-gnu-ar cDPrST arch/riscv/purgatory/built-in.a

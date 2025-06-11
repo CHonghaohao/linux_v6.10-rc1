@@ -1,0 +1,1 @@
+savedcmd_drivers/cpufreq/modules.order := {   echo drivers/cpufreq/cpufreq_powersave.o;   echo drivers/cpufreq/cpufreq_conservative.o;   echo drivers/cpufreq/cppc_cpufreq.o; :; } > drivers/cpufreq/modules.order

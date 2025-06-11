@@ -1,0 +1,30 @@
+!<thin>
+//                                              226       `
+sdhci.o/
+mmc_spi.o/
+of_mmc_spi.o/
+tmio_mmc_core.o/
+renesas_sdhi_core.o/
+renesas_sdhi_internal_dmac.o/
+dw_mmc.o/
+dw_mmc-pltfm.o/
+dw_mmc-starfive.o/
+sunxi-mmc.o/
+sdhci-pltfm.o/
+sdhci-cadence.o/
+sdhci-of-dwcmshc.o/
+cqhci-core.o/
+/0              0           0     0     644     199136    `
+/9              0           0     0     644     37480     `
+/20             0           0     0     644     4936      `
+/34             0           0     0     644     50240     `
+/51             0           0     0     644     42288     `
+/72             0           0     0     644     22464     `
+/102            0           0     0     644     94912     `
+/112            0           0     0     644     9064      `
+/128            0           0     0     644     6560      `
+/147            0           0     0     644     48192     `
+/160            0           0     0     644     16648     `
+/175            0           0     0     644     22872     `
+/192            0           0     0     644     71760     `
+/212            0           0     0     644     50560     `

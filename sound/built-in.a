@@ -1,0 +1,63 @@
+!<thin>
+//                                              464       `
+sound_core.o/
+core/sound.o/
+core/init.o/
+core/memory.o/
+core/control.o/
+core/misc.o/
+core/device.o/
+core/info.o/
+core/ctljack.o/
+core/jack.o/
+core/timer.o/
+core/pcm.o/
+core/pcm_native.o/
+core/pcm_lib.o/
+core/pcm_misc.o/
+core/pcm_memory.o/
+core/memalloc.o/
+core/pcm_timer.o/
+soc/soc-core.o/
+soc/soc-dapm.o/
+soc/soc-jack.o/
+soc/soc-utils.o/
+soc/soc-dai.o/
+soc/soc-component.o/
+soc/soc-pcm.o/
+soc/soc-devres.o/
+soc/soc-ops.o/
+soc/soc-link.o/
+soc/soc-card.o/
+last.o/
+
+/0              0           0     0     644     4512      `
+/14             0           0     0     644     21464     `
+/28             0           0     0     644     51632     `
+/41             0           0     0     644     4880      `
+/56             0           0     0     644     99248     `
+/72             0           0     0     644     9328      `
+/85             0           0     0     644     8848      `
+/100            0           0     0     644     33352     `
+/113            0           0     0     644     3736      `
+/129            0           0     0     644     14824     `
+/142            0           0     0     644     97672     `
+/156            0           0     0     644     59336     `
+/168            0           0     0     644     184456    `
+/187            0           0     0     644     73896     `
+/203            0           0     0     644     12560     `
+/220            0           0     0     644     18368     `
+/239            0           0     0     644     33352     `
+/256            0           0     0     644     5016      `
+/274            0           0     0     644     133472    `
+/290            0           0     0     644     165648    `
+/306            0           0     0     644     14696     `
+/322            0           0     0     644     13976     `
+/339            0           0     0     644     35840     `
+/354            0           0     0     644     62344     `
+/375            0           0     0     644     112840    `
+/390            0           0     0     644     5344      `
+/408            0           0     0     644     27960     `
+/423            0           0     0     644     8912      `
+/439            0           0     0     644     15672     `
+/455            0           0     0     644     2768      `

@@ -1,0 +1,1 @@
+savedcmd_drivers/usb/gadget/function/u_ether.ko := riscv64-unknown-linux-gnu-ld -r -melf64lriscv -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o drivers/usb/gadget/function/u_ether.ko drivers/usb/gadget/function/u_ether.o drivers/usb/gadget/function/u_ether.mod.o

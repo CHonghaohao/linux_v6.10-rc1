@@ -1,0 +1,1 @@
+savedcmd_arch/riscv/mm/built-in.a := rm -f arch/riscv/mm/built-in.a;  printf "arch/riscv/mm/%s " init.o extable.o fault.o pageattr.o pgtable.o tlbflush.o cacheflush.o context.o pmem.o hugetlbpage.o dma-noncoherent.o cache-ops.o | xargs riscv64-unknown-linux-gnu-ar cDPrST arch/riscv/mm/built-in.a

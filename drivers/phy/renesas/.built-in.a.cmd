@@ -1,0 +1,1 @@
+savedcmd_drivers/phy/renesas/built-in.a := rm -f drivers/phy/renesas/built-in.a;  printf "drivers/phy/renesas/%s " phy-rcar-gen3-usb2.o | xargs riscv64-unknown-linux-gnu-ar cDPrST drivers/phy/renesas/built-in.a

@@ -1,0 +1,27 @@
+!<thin>
+//                                              282       `
+core.o/
+pinctrl-utils.o/
+pinmux.o/
+pinconf.o/
+pinconf-generic.o/
+devicetree.o/
+starfive/pinctrl-starfive-jh7100.o/
+starfive/pinctrl-starfive-jh7110.o/
+starfive/pinctrl-starfive-jh7110-sys.o/
+starfive/pinctrl-starfive-jh7110-aon.o/
+sunxi/pinctrl-sunxi.o/
+sunxi/pinctrl-sun20i-d1.o/
+
+/0              0           0     0     644     94624     `
+/8              0           0     0     644     5752      `
+/25             0           0     0     644     36904     `
+/35             0           0     0     644     15216     `
+/46             0           0     0     644     20120     `
+/65             0           0     0     644     12384     `
+/79             0           0     0     644     63024     `
+/115            0           0     0     644     34696     `
+/151            0           0     0     644     20624     `
+/191            0           0     0     644     9520      `
+/231            0           0     0     644     57776     `
+/254            0           0     0     644     56720     `
